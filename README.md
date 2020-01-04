@@ -10,4 +10,4 @@
 
 生产者产生延时消息->延时->目标topic->消费者
 
-![rts_v3_architecture](res/DelayQueue.png)
+![DelayQueue](res/DelayQueue.png)
